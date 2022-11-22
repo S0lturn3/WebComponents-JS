@@ -1,0 +1,50 @@
+/* #region IMPORTS */
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;700&display=swap');
+
+@import url("./variaveis.css");
+/* #endregion IMPORTS */
+
+
+/* #region REGRAS GERAIS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+html {
+    width: 100vw;
+    overflow-x: hidden;
+}
+body {
+    background-color: var(--background-color);
+    color: #ffffff;
+    font-family: 'Comfortaa', cursive;
+}
+/* #endregion REGRAS GERAIS */
+
+
+/* #region HEADER */
+
+/* #endregion HEADER */
+
+
+/* #region CONTEÚDO PRINCIPAL */
+main {
+    margin-top: 1rem;
+}
+/* #endregion CONTEÚDO PRINCIPAL */
+
+
+/* #region COMPONENTES CUSTOMIZADOS */
+
+/* #endregion COMPONENTES CUSTOMIZADOS */
+
+
+/* #region FOOTER */
+
+/* #endregion FOOTER */
